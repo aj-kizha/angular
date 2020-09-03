@@ -1,2 +1,2 @@
 npm install @angular/cli
-ng serve
+ng build
