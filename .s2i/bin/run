@@ -1,2 +1,1 @@
-npm install @angular/cli
-ng serve
+ng serve --H 0.0.0.0 --port 8080 --disable-host-check
